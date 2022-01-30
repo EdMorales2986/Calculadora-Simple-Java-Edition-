@@ -1,6 +1,8 @@
 # Calculadora-Simple-Java-Edition-
 Calculadora de operaciones simples (Suma, Resta, Multiplicacion y Division) realizado en Java
 
+Path de interes: CalculadoraSimpleJava/src/calculadoraSimpleJava/CalcSimpleJava.java
+
 Procedimineto:
 Introduccion de dos valores (decimales permitidos) 
 Introduccion del simbolo de la operacion a realizar (+, -, *, /)
